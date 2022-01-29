@@ -23,6 +23,9 @@ const Navbar = () => {
     return (
         <>
             <div >
+	            <section className="demobar">
+            	      This is a demo version under development
+                </section>
                 <section className="main-navbar">
                     <div className="container-fluid p-0">
                         <div className="row">
